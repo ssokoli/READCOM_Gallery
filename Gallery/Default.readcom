@@ -1055,7 +1055,7 @@ object PanelStoryItem222: TPanelStoryItem
       '/g>'#13'</svg>'
     AutoSize = False
   end
-  object FlagGreece1699098920: TBitmapImageStoryItem
+  object FlagGreece16990989202: TBitmapImageStoryItem
     Align = Scale
     Enabled = False
     Locked = True
@@ -1076,7 +1076,7 @@ object PanelStoryItem222: TPanelStoryItem
       'FF" stroke-width="2"/>'#13'</svg>'
     AutoSize = False
   end
-  object FlagGreece1699098920: TBitmapImageStoryItem
+  object FlagGreece16990989203: TBitmapImageStoryItem
     Align = Scale
     Enabled = False
     Locked = True
@@ -1094,43 +1094,7 @@ object PanelStoryItem222: TPanelStoryItem
       ' M0,11H27 M0,15H27"/>'#13'</svg>'
     AutoSize = False
   end
-  object FlagGreece1699098920: TBitmapImageStoryItem
-    Align = Scale
-    Enabled = False
-    Locked = True
-    Position.X = 666.752380371093800000
-    Position.Y = 720.368347167968800000
-    Size.Width = 0.000000000000000000
-    Size.Height = 0.000000000000000000
-    Size.PlatformDefault = False
-    TabStop = False
-    SVGText = 
-      '<?xml version="1.0" encoding="UTF-8"?>'#13'<svg xmlns="http://www.w3' +
-      '.org/2000/svg" width="600" height="400" viewBox="0 0 27 18">'#13'<re' +
-      'ct fill="#0D5EAF" width="27" height="18"/>'#13'<path fill="none" str' +
-      'oke-width="2" stroke="#FFF" d="M5,0V11 M0,5H10 M10,3H27 M10,7H27' +
-      ' M0,11H27 M0,15H27"/>'#13'</svg>'
-    AutoSize = False
-  end
-  object FlagGreece1699098920: TBitmapImageStoryItem
-    Align = Scale
-    Enabled = False
-    Locked = True
-    Position.X = 666.752380371093800000
-    Position.Y = 720.368347167968800000
-    Size.Width = 0.000000000000000000
-    Size.Height = 0.000000000000000000
-    Size.PlatformDefault = False
-    TabStop = False
-    SVGText = 
-      '<?xml version="1.0" encoding="UTF-8"?>'#13'<svg xmlns="http://www.w3' +
-      '.org/2000/svg" width="600" height="400" viewBox="0 0 27 18">'#13'<re' +
-      'ct fill="#0D5EAF" width="27" height="18"/>'#13'<path fill="none" str' +
-      'oke-width="2" stroke="#FFF" d="M5,0V11 M0,5H10 M10,3H27 M10,7H27' +
-      ' M0,11H27 M0,15H27"/>'#13'</svg>'
-    AutoSize = False
-  end
-  object FlagGreece1699098920: TBitmapImageStoryItem
+  object FlagGreece16990989206: TBitmapImageStoryItem
     Align = Scale
     Enabled = False
     Locked = True
@@ -1348,7 +1312,7 @@ object PanelStoryItem222: TPanelStoryItem
       'ref="#quina" y="25.784"/>'#13#13'</g>'#13'</svg>'
     AutoSize = False
   end
-  object FlagGreece1699098920: TBitmapImageStoryItem
+  object FlagGreece16990989207: TBitmapImageStoryItem
     Align = Scale
     Enabled = False
     Locked = True
